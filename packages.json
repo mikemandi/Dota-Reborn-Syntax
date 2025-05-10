@@ -1,0 +1,10 @@
+{
+	"name": "Dota Reborn Syntax",
+	"details": "https://github.com/mikemandi/Dota-Reborn-Syntax",
+	"releases": [
+		{
+			"sublime_text": "*",
+			"tags": true
+		}
+	]
+}

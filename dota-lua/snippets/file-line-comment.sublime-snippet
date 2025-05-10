@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[--=================================================================]]></content>
+    <tabTrigger>--=</tabTrigger>
+    <scope>source.lua</scope>
+    <description>get special value</description>
+</snippet>
